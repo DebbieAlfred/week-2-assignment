@@ -8,3 +8,5 @@ return a - b;
 }
 
 //invoke subtraction function to run the calculator
+console.log(subtraction());
+
